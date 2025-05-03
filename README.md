@@ -6,3 +6,4 @@ SQL Music Store Data Analysis
 Postgre SQL
 PgAdmin4.3
 ## Schema for the Database 
+https://github.com/NidhiMishra-tech/SQL_Project/blob/main/MusicDatabaseSchema.png
