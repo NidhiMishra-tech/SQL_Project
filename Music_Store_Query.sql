@@ -1,6 +1,6 @@
 /*	Question Set 1 - Easy */
 
-/* Q1: Who is the senior most employee based on job title? */
+/* Q1: Finding the senior most employee based on job title? */
 
 SELECT title, last_name, first_name 
 FROM employee
