@@ -7,4 +7,5 @@ Postgre SQL
 PgAdmin4.3
 ## Schema for the Database 
 
-![MusicDatabaseSchema](https://github.com/user-attachments/assets/077dfa8c-e430-48d7-9789-4528812427eb)
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/b05f4036-3859-493a-9c80-e1550599b93b)
+
