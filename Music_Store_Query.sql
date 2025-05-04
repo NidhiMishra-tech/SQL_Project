@@ -119,8 +119,7 @@ ORDER BY 5 DESC;
 with the highest amount of purchases. Then Writing a query that returns each country along with the top Genre. For countries where 
 the maximum number of purchases is shared return all Genres. */
 
-/* Steps 1: first finidng the most popular music genre and*/
-Step 2: need data country level. */
+/* Steps 1: first finidng the most popular music genre and Step 2: need data country level. */
 
 /* Method : Using CTE */
 
